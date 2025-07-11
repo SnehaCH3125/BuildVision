@@ -46,3 +46,19 @@ Converts sketch-style floor plan blueprints into architectural-quality outputs u
 
 ## 📁 Project Structure
 
+BuildVision/
+├── delay_prediction/
+├── ppe_detection/
+├── supplier_recommendation/
+├── floorplan_generation/
+├── assets/
+├── app.py
+└── README.md
+
+## ⚙️ Getting Started
+
+#### 1. Clone the Repository
+
+    git clone https://github.com/SnehaCH3125/BuildVision.git
+    cd BuildVision
+
